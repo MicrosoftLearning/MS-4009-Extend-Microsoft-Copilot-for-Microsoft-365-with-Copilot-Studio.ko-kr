@@ -53,7 +53,7 @@ AI Builder 팀의 프롬프트 엔지니어링 가이드에는 프롬프트에 �
 1. 왼쪽 탐색 영역에서 **라이브러리**를 선택합니다. 여기서는 기존 작업 및 커넥터 목록을 보고 새로 만들 수 있습니다.
 1. 맨 위에 있는 **항목 추가**를 선택합니다.  메뉴에 Microsoft 365용 Copilot 확장 옵션 2가지가 나열됩니다.
 :::image type="content" source="../Media/extend copilot options.png" alt-text="창에 Copilot 만들기 또는 작업 만들기라는 Copilot 확장 옵션 2가지가 나열됩니다.":::
-1. **새 작업**를 선택합니다.
+1. **새 작업**을 선택합니다.
 1. *새 작업* 화면에서 **프롬프트**를 선택합니다. 그러면 AI Builder 프롬프트 작성기가 열립니다.
 1. **작업 세부 정보** 페이지에서 **작업 이름**으로 "Professional Development Plan"을 입력합니다.
 1. 다음 **설명**을 입력합니다. "Creates an actionable professional development plan based on desired career milestones."
